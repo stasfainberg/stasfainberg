@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- White color card -->
 <!-- <a href="https://app.daily.dev/stasfainberg"><img src="https://api.daily.dev/devcards/v2/942Blz2CiyTAl2FXI84a8.png?type=default&r=g2j" width="356" alt="Stas Fainberg's Dev Card"/></a> -->
-<!-- <a href="https://app.daily.dev/stasfainberg"><img src="./devcard.png" width="356" alt="Stas Fainberg's Dev Card"/></a> -->
-<a href="https://app.daily.dev/stasfainberg"><img src="https://api.daily.dev/devcards/v2/942Blz2CiyTAl2FXI84a8.png?type=default&r=ow2" width="356" alt="Stas Fainberg's Dev Card"/></a>
-<!-- <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a> -->
+<a href="https://app.daily.dev/stasfainberg"><img src="./devcard.png?type=default&r=ow2" width="356" alt="Stas Fainberg's Dev Card"/></a>
+
+<!-- Ember color card -->
+<!-- <a href="https://app.daily.dev/stasfainberg"><img src="https://api.daily.dev/devcards/v2/942Blz2CiyTAl2FXI84a8.png?type=default&r=ow2" width="356" alt="Stas Fainberg's Dev Card"/></a> -->
