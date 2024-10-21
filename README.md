@@ -1,4 +1,4 @@
-## Hi there, This is my Daily.dev DevCard. 👋
+## Hi there, this is my Daily.dev DevCard. 👋
 
 <!--
 **stasfainberg/stasfainberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
